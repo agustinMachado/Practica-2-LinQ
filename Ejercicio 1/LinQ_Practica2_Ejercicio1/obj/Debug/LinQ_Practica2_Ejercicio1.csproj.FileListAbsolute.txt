@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\LinQ_Practica2_Ejercicio1\LinQ_Practica2_Ejercicio1\bin\Debug\LinQ_Practica2_Ejercicio1.exe.config
+C:\Users\Usuario\source\repos\LinQ_Practica2_Ejercicio1\LinQ_Practica2_Ejercicio1\bin\Debug\LinQ_Practica2_Ejercicio1.exe
+C:\Users\Usuario\source\repos\LinQ_Practica2_Ejercicio1\LinQ_Practica2_Ejercicio1\bin\Debug\LinQ_Practica2_Ejercicio1.pdb
+C:\Users\Usuario\source\repos\LinQ_Practica2_Ejercicio1\LinQ_Practica2_Ejercicio1\obj\Debug\LinQ_Practica2_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\LinQ_Practica2_Ejercicio1\LinQ_Practica2_Ejercicio1\obj\Debug\LinQ_Practica2_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LinQ_Practica2_Ejercicio1\LinQ_Practica2_Ejercicio1\obj\Debug\LinQ_Practica2_Ejercicio1.exe
+C:\Users\Usuario\source\repos\LinQ_Practica2_Ejercicio1\LinQ_Practica2_Ejercicio1\obj\Debug\LinQ_Practica2_Ejercicio1.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ\Practica 2 LinQ\Ejercicio 1\LinQ_Practica2_Ejercicio1\bin\Debug\LinQ_Practica2_Ejercicio1.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ\Practica 2 LinQ\Ejercicio 1\LinQ_Practica2_Ejercicio1\bin\Debug\LinQ_Practica2_Ejercicio1.exe
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ\Practica 2 LinQ\Ejercicio 1\LinQ_Practica2_Ejercicio1\bin\Debug\LinQ_Practica2_Ejercicio1.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ\Practica 2 LinQ\Ejercicio 1\LinQ_Practica2_Ejercicio1\obj\Debug\LinQ_Practica2_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ\Practica 2 LinQ\Ejercicio 1\LinQ_Practica2_Ejercicio1\obj\Debug\LinQ_Practica2_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ\Practica 2 LinQ\Ejercicio 1\LinQ_Practica2_Ejercicio1\obj\Debug\LinQ_Practica2_Ejercicio1.exe
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ\Practica 2 LinQ\Ejercicio 1\LinQ_Practica2_Ejercicio1\obj\Debug\LinQ_Practica2_Ejercicio1.pdb
